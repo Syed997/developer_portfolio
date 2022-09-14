@@ -20,16 +20,17 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 8%;
 }
 .width{
     width: 50%;
-    margin-left: 2%;
+    
 }
 .width img{
     width: 75%;
     margin-top: 5%;
 }
-#button{
+.button{
     margin-left: 8%;
     text-decoration: none;
     color: white;
