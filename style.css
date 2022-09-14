@@ -7,7 +7,7 @@ h1{
     font-size: 50px;
     margin-left: 5%;
 }
-#jim{
+.jim{
     color: rgb(230, 169, 2);
 }
 .para{
@@ -19,7 +19,7 @@ h1{
 .s_head{
     margin-left: 5%;
 }
-section{
+.flexible{
     display: flex;
     margin-bottom: 8%;
 }
