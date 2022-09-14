@@ -22,11 +22,18 @@ section{
 }
 .width{
     width: 50%;
+    margin-left: 2%;
 }
 .width img{
     width: 75%;
     margin-top: 5%;
 }
 #button{
-    margin-left: 10%;
+    margin-left: 8%;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-weight: bold;
 }
