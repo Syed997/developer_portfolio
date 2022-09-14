@@ -8,3 +8,22 @@ h1{
 #jim{
     color: rgb(230, 169, 2);
 }
+.para{
+    margin-left: 5%;
+    margin-right: 30%;
+    text-align: justify;
+    font-weight: lighter;
+}
+.s_head{
+    margin-left: 5%;
+}
+section{
+    display: flex;
+}
+.width{
+    width: 50%;
+}
+.width img{
+    width: 75%;
+    margin-top: 5%;
+}
