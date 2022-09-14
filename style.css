@@ -7,6 +7,10 @@ h1{
     font-size: 50px;
     margin-left: 5%;
 }
+h2{
+    font-size: 40px;
+    margin-left: 5%;
+}
 .jim{
     color: rgb(230, 169, 2);
 }
@@ -48,4 +52,15 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.shadow{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
+.exp{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
