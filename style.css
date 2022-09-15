@@ -72,3 +72,6 @@ h2{
     border-left: 8px solid;
     border-image: linear-gradient(blue, salmon) 1;
 }
+.foot{
+    text-align: center;
+}
